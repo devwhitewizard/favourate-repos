@@ -1,1 +1,2 @@
-# favourate-repos
+# favourate repositories
+https://github.com/bchiang7
